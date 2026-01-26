@@ -32,3 +32,8 @@ This dataset is suitable for various NLP tasks, including but not limited to:
 **Headline Generation**: Summarization tasks using the article body and headline.
 
 **Low-Resource Language Studies**: Contributing to the development of language models for Indic languages.
+
+# Contributors of the dataset
+
+1) **Pragyat Jyoti Baruah** [email- pragyat.jyoti.baruah@aus.ac.in]
+2) **Tirthanka Borah** [email- tirthanka.borah@aus.ac.in]
