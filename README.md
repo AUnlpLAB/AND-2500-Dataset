@@ -17,6 +17,8 @@ To support rich metadata analysis, each entry in the dataset includes the follow
 
 **Target Label**: Category
 
+**No. of tokens**: 259,177
+
 # Categories
 The dataset is classified into 20 distinct categories. These categories cover a wide spectrum of topics that includes:
 
