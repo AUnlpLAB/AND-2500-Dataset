@@ -1,7 +1,7 @@
 # AND-2500 Dataset
 This repository hosts a curated Assamese News Classification Dataset, developed to address the scarcity of high-quality, structured resources for low-resource Indic languages. The dataset initially comprised of 2,500 news articles, meticulously collected to facilitate research in Natural Language Processing, text classification etc. All news articles in the dataset are written in Assamese script.
 
-The latest version of the dataset (...csv) consists of 6,438 news articles. The overall raw dataset (....xls) contains 6,438 articles. 
+The latest version of the dataset (AND2500_clean.csv) consists of 6,438 news articles. The overall raw dataset (AND2500_raw.xls) contains 6,438 articles. 
 
 # Data Collection & Methodology
 The corpus was constructed using a hybrid methodology combining manual collection and web scraping. Sources include leading Assamese newspapers and digital news platforms, ensuring a linguistic style that reflects authentic modern usage. 
