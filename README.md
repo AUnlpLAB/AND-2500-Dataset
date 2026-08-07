@@ -1,12 +1,14 @@
 # AND-2500 Dataset
-This repository hosts a curated Assamese News Classification Dataset, developed to address the scarcity of high-quality, structured resources for low-resource Indic languages. The dataset comprises 2,500 news articles, meticulously collected to facilitate research in Natural Language Processing, text classification etc. All news articles in the dataset are written in Assamese script.
+This repository hosts a curated Assamese News Classification Dataset, developed to address the scarcity of high-quality, structured resources for low-resource Indic languages. The dataset initially comprised of 2,500 news articles, meticulously collected to facilitate research in Natural Language Processing, text classification etc. All news articles in the dataset are written in Assamese script.
+
+The latest version of the dataset (...csv) consists of 6,438 news articles. The overall raw dataset (....xls) contains 6438 articles. 
 
 # Data Collection & Methodology
 The corpus was constructed using a hybrid methodology combining manual collection and web scraping. Sources include leading Assamese newspapers and digital news platforms, ensuring a linguistic style that reflects authentic modern usage. 
 
-**Data Acquisition**: The news articles were gathered from leading Assamese newspapers and news portals. The process involved both automated web scraping scripts and manual data entry to ensure high-quality text extraction. The primary data sources- includes Assamese ePapers viz. Dainik Janambhumi (দৈনিক জনমভূমি) and Amar Asom (আমাৰ অসম), and online news portals viz. Asomia Pratidin (অসমীয়া প্ৰতিদিন), Dainandin Barta (দৈনন্দিন বাৰ্তা), Niyomia Barta (নিয়মীয়া বাৰ্তা) and News18 Assam.
+**Data Acquisition**: The news articles were gathered from leading Assamese newspapers and news portals. The process involved both automated web scraping scripts and manual data entry to ensure high-quality text extraction. The primary data sources- includes Assamese ePapers viz. Dainik Janambhumi (দৈনিক জনমভূমি) and Amar Asom (আমাৰ অসম), and online news portals viz. Asomia Pratidin (অসমীয়া প্ৰতিদিন), Dainandin Barta (দৈনন্দিন বাৰ্তা), Niyomia Barta (নিয়মীয়া বাৰ্তা), All India Radio, Dainik Agradoot (দৈনিক অগ্ৰদূত) and News18 Assam.
 
-**Annotation Process**: The labeling process was strictly guided by the International Press Telecommunications Council (IPTC) Subject Codes. This ensures that the categorization aligns with global media standards, facilitating cross-lingual comparison and standardization in text classification research.
+**Annotation Process**: The labeling process was strictly guided by the International Press Telecommunications Council (IPTC) Subject Codes. This ensures that the categorization aligns with global media standards, facilitating cross-lingual comparison and standardization in text classification research. The dataset is validated using Inter-Annotator-Agreement of 4 native individuals. 
 
 # Dataset Structure
 To support rich metadata analysis, each entry in the dataset includes the following attributes:
@@ -17,7 +19,9 @@ To support rich metadata analysis, each entry in the dataset includes the follow
 
 **Target Label**: Category
 
-**No. of tokens**: 259,177
+**No. of tokens**: 1,267,263
+
+**No. of unique tokens (Vocabulary Size)**: 124,466
 
 # Categories
 The dataset is classified into 20 distinct categories. These categories cover a wide spectrum of topics that includes:
@@ -36,4 +40,7 @@ This dataset is suitable for various NLP tasks, including but not limited to:
 **Low-Resource Language Studies**: Contributing to the development of language models for Indic languages.
 
 
-# N.B.: This contains only a sample of the original dataset. The full AND-2500 dataset will be made public once the manuscript is accepted in the journal 'Computación y Sistemas'
+# Works done on the dataset:
+
+**Conference paper 1**
+**Journal paper 1**
