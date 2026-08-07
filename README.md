@@ -19,6 +19,8 @@ To support rich metadata analysis, each entry in the dataset includes the follow
 
 **Target Label**: Category
 
+**Timeline**: 2019 to 2026
+
 **No. of tokens**: 1,267,263
 
 **No. of unique tokens (Vocabulary Size)**: 124,466
