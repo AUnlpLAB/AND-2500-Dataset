@@ -8,7 +8,9 @@ The corpus was constructed using a hybrid methodology combining manual collectio
 
 **Data Acquisition**: The news articles were gathered from leading Assamese newspapers and news portals. The process involved both automated web scraping scripts and manual data entry to ensure high-quality text extraction. The primary data sources- includes Assamese ePapers viz. Dainik Janambhumi (দৈনিক জনমভূমি) and Amar Asom (আমাৰ অসম), and online news portals viz. Asomia Pratidin (অসমীয়া প্ৰতিদিন), Dainandin Barta (দৈনন্দিন বাৰ্তা), Niyomia Barta (নিয়মীয়া বাৰ্তা), All India Radio, Dainik Agradoot (দৈনিক অগ্ৰদূত) and News18 Assam.
 
-**Annotation Process**: The labeling process was strictly guided by the International Press Telecommunications Council (IPTC) Subject Codes. This ensures that the categorization aligns with global media standards, facilitating cross-lingual comparison and standardization in text classification research. The dataset is validated using Inter-Annotator-Agreement of 4 native individuals. 
+**Annotation Process**: The labeling process was strictly guided by the International Press Telecommunications Council (IPTC) Subject Codes. This ensures that the categorization aligns with global media standards, facilitating cross-lingual comparison and standardization in text classification research. 
+
+**Validation Process**:The dataset is validated using Inter-Annotator-Agreement of 4 native individuals. 
 
 # Dataset Structure
 To support rich metadata analysis, each entry in the dataset includes the following attributes:
