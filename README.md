@@ -44,3 +44,5 @@ This dataset is suitable for various NLP tasks, including but not limited to:
 
 **Conference paper 1**
 **Journal paper 1**
+
+# Cite as: ....
