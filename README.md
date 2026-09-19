@@ -10,7 +10,7 @@ The corpus was constructed using a hybrid methodology combining manual collectio
 
 **Annotation Process**: The labeling process was strictly guided by the International Press Telecommunications Council (IPTC) Subject Codes. This ensures that the categorization aligns with global media standards, facilitating cross-lingual comparison and standardization in text classification research. 
 
-**Validation Process**:The dataset is validated using Inter-Annotator-Agreement of 4 native individuals. 
+**Validation Process**:The dataset is validated using Inter-Annotator-Agreement (IAA) of 4 native individuals. Initially 7,000 articles are scrapped and self annotated using IPTC guidelines. Following this process, the initial dataset is provided to the annotators for independent labelling using the IPTC guidelines, for IAA validation. The comparison of the annotated labels yielded a strong average pairwise Cohen’s Kappa (κ) score of 0.955, indicating almost perfect consensus among the independent annotators. To maintain strict dataset quality, only the news articles that achieved unanimous agreement across all three annotators are retained for further processing, while the articles resulting in annotation disagreements are discarded.
 
 # Dataset Structure
 To support rich metadata analysis, each entry in the dataset includes the following attributes:
