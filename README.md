@@ -48,6 +48,6 @@ This dataset is suitable for various NLP tasks, including but not limited to:
 
 **Conference paper:** P. J. Baruah, A. Paul, S. Dhar, V. S. Shridayal and T. Borah, "A Hybrid Framework for Automated News Classification for the Low-Resource Assamese Language," 2026 10th International Conference on Inventive Systems and Control (ICISC), Coimbatore, India, 2026, pp. 1855-1860, doi: 10.1109/ICISC69558.2026.11681341.
 
-**Journal paper:** P. J. Baruah, A. Paul, V. S. Snehal, and T. Borah, "AND-2500: A Novel Assamese News Corpus and Comparative Benchmarking of Language Models," Computación y Sistemas, vol. 30, no. 3, pp. 1955–1966, 2026, doi: 10.13053/CyS-30-3-6206.
+# Cite as:
 
-# Cite as....
+**Journal paper:** P. J. Baruah, A. Paul, V. S. Snehal, and T. Borah, "AND-2500: A Novel Assamese News Corpus and Comparative Benchmarking of Language Models," Computación y Sistemas, vol. 30, no. 3, pp. 1955–1966, 2026, doi: 10.13053/CyS-30-3-6206.
